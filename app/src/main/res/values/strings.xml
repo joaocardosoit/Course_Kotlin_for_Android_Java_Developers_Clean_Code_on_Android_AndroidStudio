@@ -9,4 +9,7 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="drink_water">Drink water</string>
+    <string name="habit_icon">Habit icon</string>
+    <string name="a_refreshin_glass_of_water_gets_you_hydrated">A refreshin glass of water gets you hydrated</string>
 </resources>
