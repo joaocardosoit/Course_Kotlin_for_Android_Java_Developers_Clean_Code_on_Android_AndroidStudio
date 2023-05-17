@@ -1,8 +1,10 @@
 package com.example.udemycourse
 
-data class Habit(val title: String, val description: String, val image: Int)
+import android.graphics.Bitmap
 
-fun getSampleHabits(): List<Habit>{
+data class Habit(val title: String, val description: String, val image: Bitmap)
+
+/*fun getSampleHabits(): List<Habit>{
     return listOf(
         Habit("Go for a walk",
             "A nice walk in the sun gets you ready for the day ahead",
@@ -10,4 +12,4 @@ fun getSampleHabits(): List<Habit>{
         Habit("Drink a glass of water",
             "A refreshing glass of water gets you hydrated",
             R.drawable.water))
-}
+}*/
